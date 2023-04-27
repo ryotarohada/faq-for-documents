@@ -1,0 +1,2 @@
+# faq-for-documents
+LangChainとLlamaIndexを使用してChatGPTに独自データを含んだ回答をさせる
